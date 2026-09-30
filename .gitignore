@@ -1,0 +1,22 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.eep
+*.bin
+*.ino.hex
+*.ino.elf
+*.ino.eep
+*.ino.bin
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folder
+build/
